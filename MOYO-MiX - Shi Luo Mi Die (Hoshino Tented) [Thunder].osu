@@ -39,6 +39,7 @@ SliderTickRate:1
 
 [Events]
 //Background and Video events
+Video,0,"pv.mp4"
 //Break Periods
 2,26594,32944
 //Storyboard Layer 0 (Background)
